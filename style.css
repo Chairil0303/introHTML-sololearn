@@ -1,0 +1,23 @@
+* {
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+nav,
+main,
+footer {
+    border: 2px solid greenyellow;
+    text-align: center;
+}
+
+main h1 {
+    margin: 50px 0 100px 0;
+}
+
+main {
+    height: 100vh;
+}
+
+main ul li {
+    text-align: center;
+}
